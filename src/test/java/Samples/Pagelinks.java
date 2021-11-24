@@ -4,7 +4,7 @@
  *automates the management of WebDriver binaries.
  *         downloads the appropriate driver binaries, if not already present, into the local cache.
  *         downloads the latest version of the browser binary, unless otherwise specified.
- *       22  Eliminates the need to store driver binaries locally. We also need not maintain various versions of the binary driver files for different browsers.
+ *        Eliminates the need to store driver binaries locally. We also need not maintain various versions of the binary driver files for different browsers.
  */
 
 
