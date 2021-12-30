@@ -110,6 +110,7 @@ public class DynamicWebTable {
         System.out.println("==============Interview question: click on Know more link for OLA===========");
         driver.findElement(By.xpath("//td[text()='Ola']//following-sibling::td[3]//a")).click();
 
+
         //driver.quit();
 
     }
