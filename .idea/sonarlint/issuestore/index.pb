@@ -1,6 +1,4 @@
 
-W
-'src/test/java/Samples/WebtableTest.java,5/e/5e0a11541a8b782e5a0f7506d93de77fba3d5a65
 R
 "src/main/java/resources/log4j2.xml,3/3/336f74aeb9f8ee1579fb5cd098a17981af39dadc
 \
